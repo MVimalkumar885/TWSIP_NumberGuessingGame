@@ -16,5 +16,4 @@ Code Explanation
 The game uses the Random class to generate a random number and the Scanner class to get input from the user. The game runs in a loop until the player guesses the correct number. The number of attempts is tracked and displayed at the end.
 
 Contributors
-
 MVimalKumar885
